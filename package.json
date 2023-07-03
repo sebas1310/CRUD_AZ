@@ -1,0 +1,15 @@
+{
+  "name": "makingcrud",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.4.3",
+    "path": "^0.12.7",
+    "qs": "^6.11.2"
+  }
+}
